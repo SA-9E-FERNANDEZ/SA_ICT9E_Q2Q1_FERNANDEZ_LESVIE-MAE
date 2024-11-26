@@ -1,0 +1,36 @@
+body {
+    background-color: #2D3347;
+    font-family: Arial, sans-serif;
+}
+.crypto-card {
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ }
+
+.crypto-logo {
+    width: 100px;
+    height: auto;
+     margin-bottom: 20px;
+}
+
+.crypto-description {
+    margin-bottom: 10px;
+}
+
+.table th{ 
+  text-align: center;
+}
+.table td {
+ text-align: center;
+}
+
+h1 {
+    color: #CC8E41;
+}
+p{
+    color: white;
+    text-align: center;
+}
